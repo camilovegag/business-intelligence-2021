@@ -1,1 +1,1 @@
-# Business Intelligente exercises
+# Business Intelligence exercises
